@@ -1,5 +1,5 @@
 {
-  "name": "irori",
+  "name": "heian-corp",
   "version": "1.0.0",
   "description": "Original WP Themes Template",
   "private": true,
@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LAMP-Develop/irori.git"
+    "url": "git+https://github.com/lamp-suzuki/heian-corp.git"
   },
   "author": "LAMP",
   "license": "ISC",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.14.0",
-    "bootstrap": "^4.5.2",
+    "bootstrap": "^4.6.0",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.0"
   },
